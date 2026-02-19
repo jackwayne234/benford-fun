@@ -121,12 +121,36 @@ Where:
 - **Standing wave past singularity** governed by Riemann zeta zeros
 - **Non-trivial zeros** of zeta (Riemann Hypothesis) may describe geometry at s = 1/2 + it
 
+## Reinterpretation: Not Hawking Radiation — Substrate Accumulation
+
+The 5th dimension converts spatial geometry into prime substrate at the Hawking rate. But this is NOT radiation escaping. The black hole is geometrically closed and sealed — nothing gets out.
+
+**What's actually happening:**
+- The prime substrate converts spatial geometry into more of itself at the rate 1/r²
+- This conversion happens INSIDE the sealed horizon
+- The converted substrate ACCUMULATES — it builds up inside
+- The black hole is a pressure cooker of prime substrate
+- When the BH finally evaporates (gets too small to contain it), all the accumulated substrate releases at once
+
+**Information paradox resolution:**
+- Information isn't destroyed — it's being REFORMATTED into prime substrate
+- The substrate stores everything in the most fundamental form possible
+- When the black hole evaporates, the information comes back out
+- Nothing was ever lost — it was compressed into the language of primes
+
+**The rate matching Hawking is significant because:**
+- It tells us the conversion rate is real (matches known physics)
+- But the MECHANISM is different — it's internal conversion, not external radiation
+- Standard Hawking radiation may be a surface effect of this deeper internal process
+- What we observe as Hawking radiation from outside could be the pressure of accumulated substrate "leaking" through quantum effects at the horizon
+
 ## Open Questions
 1. What exactly is X physically? We derived X = 1/(r·ζ) mathematically, but what mechanism does this represent?
 2. Does α = 3 have deeper significance (3 spatial dimensions)?
 3. The non-trivial Riemann zeros — do they play a role in the geometry past the singularity?
 4. Can the standing wave pattern (trivial zeros) be connected to quantum gravity predictions?
-5. Does the 5th dimension's consumption of space relate to information paradox?
+5. What determines when the accumulated substrate overwhelms the horizon and triggers evaporation?
+6. Is the final evaporation event (substrate release) connected to the information content that went in?
 
 ## How We Got Here
 1. Started with Euler product × each of 9 QG models — none broken
