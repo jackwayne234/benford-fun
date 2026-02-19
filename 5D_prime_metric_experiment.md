@@ -170,6 +170,13 @@ Black hole evaporation explosions have been happening for eons. We're bathed in 
 
 Einstein described the effect correctly. The source is the substrate cycle.
 
+**Time dilation from mass AND speed — same mechanism:**
+- Mass distorts the wave field → more wave interaction → time slows
+- Speed moves you through the wave field faster → more wave interaction → time slows
+- Both are degrees of interaction with the substrate wave background
+- This is WHY gravitational and velocity time dilation have the same mathematical structure in relativity — they're the same thing (different ways of increasing wave interaction)
+- Einstein unified them in spacetime curvature. The substrate cycle explains WHY they unify.
+
 *Status: raw speculation, not tested. But consistent with the framework.*
 
 ## How We Got Here
