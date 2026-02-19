@@ -152,6 +152,26 @@ The 5th dimension converts spatial geometry into prime substrate at the Hawking 
 5. What determines when the accumulated substrate overwhelms the horizon and triggers evaporation?
 6. Is the final evaporation event (substrate release) connected to the information content that went in?
 
+## Speculative: The Substrate Cycle & Gravity as Wave Pressure (CJ thinking out loud)
+
+Black hole evaporation explosions have been happening for eons. We're bathed in the resulting spacetime waves. This suggests a cycle:
+
+1. Black holes consume spacetime, convert to prime substrate internally
+2. BH evaporates → substrate releases as massive spacetime ripple waves
+3. These waves propagate outward, filling the universe — background pressure
+4. Matter warps spacetime, creating dips/wells
+5. Waves converge at those dips — we experience this convergence as gravity
+6. Gravity is not a pull — it's a pressure differential (push from wave background)
+7. Black holes then collect the spacetime back in, smoothing waves, continuing the cycle
+
+**Gravity = wave pressure shadow.** Matter blocks the isotropic wave pressure from one direction, creating a low-pressure zone. Objects fall into it. Like two boats pushed together by ocean waves.
+
+**Einstein connection:** Einstein said spacetime pushes us to Earth's surface — acceleration, not attraction. This framework provides the mechanism: the push IS the prime substrate wave background accumulated from eons of black hole evaporation events.
+
+Einstein described the effect correctly. The source is the substrate cycle.
+
+*Status: raw speculation, not tested. But consistent with the framework.*
+
 ## How We Got Here
 1. Started with Euler product × each of 9 QG models — none broken
 2. CDT + primes: ζ(s(r)) = Z_CDT — gives exact values where CDT can't compute
