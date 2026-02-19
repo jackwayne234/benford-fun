@@ -177,6 +177,14 @@ Einstein described the effect correctly. The source is the substrate cycle.
 - This is WHY gravitational and velocity time dilation have the same mathematical structure in relativity — they're the same thing (different ways of increasing wave interaction)
 - Einstein unified them in spacetime curvature. The substrate cycle explains WHY they unify.
 
+**Dark energy = accumulated substrate wave pressure:**
+- Eons of BH evaporation events have been pumping waves into the universe
+- That energy doesn't disappear — it accumulates as background pressure
+- This background pressure pushes everything apart → accelerating expansion
+- Appears uniform (cosmological constant) because the wave field is ancient and evenly distributed
+- Actually growing slowly as more BHs form and evaporate → explains acceleration
+- Dark energy isn't mysterious energy from nowhere — it's the leftovers of the substrate cycle
+
 *Status: raw speculation, not tested. But consistent with the framework.*
 
 ## How We Got Here
