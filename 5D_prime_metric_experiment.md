@@ -185,6 +185,14 @@ Einstein described the effect correctly. The source is the substrate cycle.
 - Actually growing slowly as more BHs form and evaporate → explains acceleration
 - Dark energy isn't mysterious energy from nowhere — it's the leftovers of the substrate cycle
 
+**Why space is mostly empty — the substrate has been eating it:**
+- BHs have been consuming 3D spatial geometry for billions of years
+- Converted substrate returns as wave pressure, not as reconstituted 3D space
+- Net result: the 3 spatial dimensions are being depleted over time
+- Universe is 99.9999% empty not just from expansion but from consumption
+- Remaining matter clumps (gravity/wave pressure) → more BHs → more consumption
+- Self-reinforcing cycle: emptier space → more concentration → more BHs → emptier space
+
 *Status: raw speculation, not tested. But consistent with the framework.*
 
 ## How We Got Here
